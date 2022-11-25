@@ -24,7 +24,7 @@ function MyVerticallyCenteredModal(props) {
             <MdOutlineMail className="info-image" />
             <div>
               <p>
-                <spawn className="tspawn">Emial</spawn>
+                <spawn className="tspawn">Email</spawn>
                 <br />
                 Stargainsdeportment@gmail.com
               </p>
