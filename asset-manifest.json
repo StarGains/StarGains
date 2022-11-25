@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/StarGains/static/css/main.df2ab114.css",
-    "main.js": "/StarGains/static/js/main.81c86142.js",
+    "main.js": "/StarGains/static/js/main.dc3e6d55.js",
     "static/js/787.e57f8a48.chunk.js": "/StarGains/static/js/787.e57f8a48.chunk.js",
     "static/media/img3.png": "/StarGains/static/media/img3.9f5d18e9b7debd1a7f65.png",
     "static/media/img2.png": "/StarGains/static/media/img2.6ae41e6158250971f77b.png",
     "static/media/img1.png": "/StarGains/static/media/img1.8da10f97135449c85a04.png",
     "index.html": "/StarGains/index.html",
     "main.df2ab114.css.map": "/StarGains/static/css/main.df2ab114.css.map",
-    "main.81c86142.js.map": "/StarGains/static/js/main.81c86142.js.map",
+    "main.dc3e6d55.js.map": "/StarGains/static/js/main.dc3e6d55.js.map",
     "787.e57f8a48.chunk.js.map": "/StarGains/static/js/787.e57f8a48.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df2ab114.css",
-    "static/js/main.81c86142.js"
+    "static/js/main.dc3e6d55.js"
   ]
 }
